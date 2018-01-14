@@ -2,122 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About Me
 
-[Link to another page](another-page).
+My name is Chen Wei-Ren (陳韋任). I am interest in programming language ([C](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1124.pdf), [C++](https://isocpp.org/), [Python](https://www.python.org/) and [Scala](http://www.scala-lang.org/)), compiler ([GCC](https://gcc.gnu.org/) and [LLVM](https://llvm.org/)) and virtualization
+([QEMU](https://www.qemu.org/)). I occasionally lurk in #llvm on [oftc](https://www.oftc.net/) and #gcc on [freenode](http://freenode.net/) as chenwj.
 
-There should be whitespace between paragraphs.
+In my spare time, I like reading and traveling.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![Little Prince](assets/images/little-prince.png)
 
-# [](#header-1)Header 1
+## What I Read
+  - [A Conversation about Teaching Software Engineering](https://blog.regehr.org/archives/1569)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Articles
+  - [例外處理概觀](https://github.com/azru0512/slide/blob/master/MISC/ExceptionHandling-00.md)
 
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Travel
+  - 2017 Huawei Canada Research Center - Toronto, Canada
+  - 2016 Huawei America Research Center - San Jose, CA, US
+  - 2016 CGO and EuroLLVM Developers' Meeting - Barcelona, Spain
+  - 2014 Honeymoon - Turkey
+  - 2013 Self-service Trip - Jeju, South Korea
+  - 2013 MCLinker and LLVM CGO Tutorial - Shenzhen, China
+  - 2012 HelloGcc WorkShop China - Beijing, China
+  - 2012 LinuxCon Japan - Yokohama, Japan
+  - 2011 LLVM Developers' Meeting - San Jose, CA, US

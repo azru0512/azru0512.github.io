@@ -17,7 +17,6 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
           {% if site.show_downloads %}
@@ -33,7 +32,11 @@
 
         {% if site.github.is_user_page %}
           <ul>
+            <li><a class="buttons github" href="https://azru0512.blogspot.com/">Blog</a></li>
+            <li><a class="buttons github" href="https://people.cs.nctu.edu.tw/~chenwj/dokuwiki/">Wiki</a></li>
+            <li><a class="buttons github" href="{{ site.github.owner_url }}/slide">Slide</a></li>
             <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
+            <li><a class="buttons linkedin" href="https://www.linkedin.com/in/chenwj/">LinkedIn Profile</a></li>
           </ul>
         {% endif %}
       </header>
@@ -42,9 +45,6 @@
         {{ content }}
       </section>
 
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-      </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     {% if site.google_analytics %}
